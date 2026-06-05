@@ -1,7 +1,6 @@
-```markdown
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hetanjali%20Vaghela&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Computer%20Vision%20%7C%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EC407A,100:AD1457&height=250&section=header&text=Hetanjali%20Vaghela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Embedded%20Systems%20%7C%20Computer%20Vision%20%7C%20AI%2FML&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
 <!-- Visitor Counter -->
@@ -61,7 +60,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shapr3D-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge"/>
 </p>
 
@@ -102,15 +100,10 @@
 - Sensor Fusion using Complementary Filter
 - Arduino, MPU6050, I2C
 
-## 💡 STM32 LED State Machine
-- GPIO Configuration
-- Button Debouncing
-- State Machine Logic
-- STM32CubeIDE, HAL Library, C
 
 ## 🎨 CAD Designs
 - Mechanical Components & 3D Models
-- Fusion 360, Shapr3D, Onshape
+- Fusion 360, Onshape
 
 ---
 
@@ -142,6 +135,14 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:hetanjalivaghela43@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hetanjali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -151,4 +152,4 @@
 ### ⭐ Building Robotics, Embedded Systems & AI Projects ⭐
 
 </div>
-```
+
