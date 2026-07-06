@@ -68,7 +68,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wokwi-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tinkercad-red?style=for-the-badge"/>
