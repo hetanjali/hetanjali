@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Robotics+%26+Automation+Engineer;Embedded+Systems+%7C+Computer+Vision+%7C+AI%2FML;Building+Intelligent+Physical+Systems;LDCE+%7C+Ahmedabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Robotics+%26+Automation+Engineer;Embedded+Systems+%7C+Computer+Vision+%7C+AI%2FML;LDCE+%7C+Ahmedabad" alt="Typing SVG" />
 </div>
 
 ---
